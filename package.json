@@ -1,0 +1,9 @@
+{
+   "name": "voodle",
+   "description": "Collaborative drawing canvas",
+   "author": "Vamsi",
+   "dependencies" : {
+      "express": "*",
+      "socket.io": "*"
+   }
+}

@@ -1,0 +1,10 @@
+*~
+*\.bak
+*\.swp
+/npm-debug.log
+/node_modules/*
+/config/config.js
+/logfile.log
+/logs/*
+.DS_Store
+._.DS_Store
